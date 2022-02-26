@@ -1,4 +1,4 @@
-##### Hi, I am Anup Chakraborty
+#### Hi, I am Anup Chakraborty
 
 - 🔭 I’m web developer 
 - 🌱 I’m currently learning MERN Stack 
